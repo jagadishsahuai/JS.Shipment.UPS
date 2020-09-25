@@ -1,0 +1,11 @@
+F:\API\UPSAPI\SampleUPSAPI\JS.Shipment.UPS\bin\Debug\netcoreapp3.1\JS.Shipment.UPS.deps.json
+F:\API\UPSAPI\SampleUPSAPI\JS.Shipment.UPS\bin\Debug\netcoreapp3.1\JS.Shipment.UPS.dll
+F:\API\UPSAPI\SampleUPSAPI\JS.Shipment.UPS\bin\Debug\netcoreapp3.1\JS.Shipment.UPS.pdb
+F:\API\UPSAPI\SampleUPSAPI\JS.Shipment.UPS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\API\UPSAPI\SampleUPSAPI\JS.Shipment.UPS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.xml
+F:\API\UPSAPI\SampleUPSAPI\JS.Shipment.UPS\obj\Debug\netcoreapp3.1\JS.Shipment.UPS.AssemblyInfoInputs.cache
+F:\API\UPSAPI\SampleUPSAPI\JS.Shipment.UPS\obj\Debug\netcoreapp3.1\JS.Shipment.UPS.AssemblyInfo.cs
+F:\API\UPSAPI\SampleUPSAPI\JS.Shipment.UPS\obj\Debug\netcoreapp3.1\JS.Shipment.UPS.csproj.CoreCompileInputs.cache
+F:\API\UPSAPI\SampleUPSAPI\JS.Shipment.UPS\obj\Debug\netcoreapp3.1\JS.Shipment.UPS.csproj.CopyComplete
+F:\API\UPSAPI\SampleUPSAPI\JS.Shipment.UPS\obj\Debug\netcoreapp3.1\JS.Shipment.UPS.dll
+F:\API\UPSAPI\SampleUPSAPI\JS.Shipment.UPS\obj\Debug\netcoreapp3.1\JS.Shipment.UPS.pdb

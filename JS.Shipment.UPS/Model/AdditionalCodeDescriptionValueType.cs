@@ -1,0 +1,11 @@
+﻿using JS.Shipment.UPS.Contract.Data;
+
+namespace JS.Shipment.UPS.Model
+{
+    public class AdditionalCodeDescriptionValueType: IAdditionalCodeDescriptionValueType
+    {
+        public string Code { get; set; }
+        public string Description { get; set; }
+        public string Value { get; set; }
+    }
+}
